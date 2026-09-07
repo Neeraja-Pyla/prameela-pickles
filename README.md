@@ -19,12 +19,12 @@ A modern, responsive website created for **Prameela Pickles** to showcase its pr
 
 ### 🌶️ Products
 
-<img width="1920" height="1080" alt="Screenshot 2026-09-07 121755" src="https://github.com/user-attachments/assets/041e5420-8799-4bd0-b038-ec8f90ef386b" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-07 121902" src="https://github.com/user-attachments/assets/90e9daae-1463-46d8-8d44-aa67abac98a9" />
 
 
 ### 👩‍🍳 Discovery Box
 
-<img width="1920" height="1080" alt="Screenshot 2026-09-07 121755" src="https://github.com/user-attachments/assets/abd478ac-a9bb-440d-8d0a-ed1f170a65c4" />
+<img width="492" height="830" alt="Screenshot 2026-09-07 121956" src="https://github.com/user-attachments/assets/986ea106-5c3e-46a0-b256-b82ef4bbb23d" />
 
 
 ### 💼 Cart
